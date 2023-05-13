@@ -1,3 +1,5 @@
+![image](https://github.com/jmvincent37/g3_project2/assets/124645398/738ab0f2-3783-4405-baa9-bb9cdd372df1)
+
 # ETL Mini-project
 ## Project 2
 ### Project Summary:
@@ -10,3 +12,13 @@ Evan Cromwell\
 Alex Heilman\
 Emily Notaro\
 Jennifer Vincent
+
+### Requirements and Point Values:
+Create a Category DataFrame (15 points)\
+Create a Subcategory DataFrame (15 points)\
+Create a Campaign DataFrame (30 points)\
+Create a Contacts DataFrame (15 points)\
+Create a Crowdfunding Database (25 points)
+
+### Additional Support and Resources Used:
+https://stackoverflow.com
