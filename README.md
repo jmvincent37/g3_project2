@@ -21,6 +21,6 @@ Create a Contacts DataFrame (15 points)\
 Create a Crowdfunding Database (25 points)
 
 ### Additional Support and Resources Used:
-https://stackoverflow.com
-https://www.askpython.com
-https://www.askpython.com
+https://stackoverflow.com \
+https://www.askpython.com \
+https://www.askpython.com 
